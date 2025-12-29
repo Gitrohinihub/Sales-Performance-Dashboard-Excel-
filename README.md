@@ -82,8 +82,9 @@ The management team needed a centralized dashboard to:
 - Regional performance varied significantly, with East and West leading in sales
 
 ## 📂 Repository Contents
-- Excel dashboard file
-- Dashboard screenshots
+- Excel dashboard file (Copy this link and open in Excel desktop application ) :
+- Dashboard screenshots :
+![](https://github.com/Gitrohinihub/Sales-Performance-Dashboard-Excel-/blob/aa9cb1da4e40ffc9d732278e9e96dd78f8fd696d/Excel%20Dashboard%20.png)
 - Project documentation
 
 
@@ -96,9 +97,5 @@ This dashboard enables decision-makers to:
 - Understand customer demographics and behavior
 - Improve sales strategy through data-driven insights
 - Reduce dependency on static reports
----
-
-## 👤 Author
-**Rohini Singh**  
-Aspiring Business Analyst  
+  
 
