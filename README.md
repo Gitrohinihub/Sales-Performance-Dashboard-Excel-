@@ -82,10 +82,10 @@ The management team needed a centralized dashboard to:
 - Regional performance varied significantly, with East and West leading in sales
 
 ## 📂 Repository Contents
-- Excel dashboard file (Copy this link and open in Excel desktop application ) :
+- Excel dashboard file (Copy this link and open in Excel desktop application ) : [click](https://github.com/Gitrohinihub/Sales-Performance-Dashboard-Excel-/blob/068742b3283f4cadbc14cb1f28a6b4cccde01ed4/Excel%20Sales%20Dashboard.xlsm)
 - Dashboard screenshots :
 ![](https://github.com/Gitrohinihub/Sales-Performance-Dashboard-Excel-/blob/aa9cb1da4e40ffc9d732278e9e96dd78f8fd696d/Excel%20Dashboard%20.png)
-- Project documentation
+
 
 
 ---
